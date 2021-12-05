@@ -1,0 +1,78 @@
+FD: me/earth/phobos/mixin/mixins/MixinBlockEndPortalFrame/AABB_BLOCK me/earth/phobos/mixin/mixins/MixinBlockEndPortalFrame/c
+FD: me/earth/phobos/mixin/mixins/MixinEntity/posX me/earth/phobos/mixin/mixins/MixinEntity/p
+FD: me/earth/phobos/mixin/mixins/MixinEntity/posY me/earth/phobos/mixin/mixins/MixinEntity/q
+FD: me/earth/phobos/mixin/mixins/MixinEntity/posZ me/earth/phobos/mixin/mixins/MixinEntity/r
+FD: me/earth/phobos/mixin/mixins/MixinEntity/motionX me/earth/phobos/mixin/mixins/MixinEntity/s
+FD: me/earth/phobos/mixin/mixins/MixinEntity/motionY me/earth/phobos/mixin/mixins/MixinEntity/t
+FD: me/earth/phobos/mixin/mixins/MixinEntity/motionZ me/earth/phobos/mixin/mixins/MixinEntity/u
+FD: me/earth/phobos/mixin/mixins/MixinEntity/rotationYaw me/earth/phobos/mixin/mixins/MixinEntity/v
+FD: me/earth/phobos/mixin/mixins/MixinEntity/rotationPitch me/earth/phobos/mixin/mixins/MixinEntity/w
+FD: me/earth/phobos/mixin/mixins/MixinEntity/onGround me/earth/phobos/mixin/mixins/MixinEntity/z
+FD: me/earth/phobos/mixin/mixins/MixinEntity/noClip me/earth/phobos/mixin/mixins/MixinEntity/Q
+FD: me/earth/phobos/mixin/mixins/MixinEntity/prevDistanceWalkedModified me/earth/phobos/mixin/mixins/MixinEntity/I
+FD: me/earth/phobos/mixin/mixins/MixinEntity/world me/earth/phobos/mixin/mixins/MixinEntity/l
+FD: me/earth/phobos/mixin/mixins/MixinEntity/stepHeight me/earth/phobos/mixin/mixins/MixinEntity/P
+FD: me/earth/phobos/mixin/mixins/MixinEntity/collidedHorizontally me/earth/phobos/mixin/mixins/MixinEntity/A
+FD: me/earth/phobos/mixin/mixins/MixinEntity/collidedVertically me/earth/phobos/mixin/mixins/MixinEntity/B
+FD: me/earth/phobos/mixin/mixins/MixinEntity/collided me/earth/phobos/mixin/mixins/MixinEntity/C
+FD: me/earth/phobos/mixin/mixins/MixinEntity/distanceWalkedModified me/earth/phobos/mixin/mixins/MixinEntity/J
+FD: me/earth/phobos/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/earth/phobos/mixin/mixins/MixinEntity/K
+FD: me/earth/phobos/mixin/mixins/MixinEntity/isInWeb me/earth/phobos/mixin/mixins/MixinEntity/E
+FD: me/earth/phobos/mixin/mixins/MixinEntity/rand me/earth/phobos/mixin/mixins/MixinEntity/S
+FD: me/earth/phobos/mixin/mixins/MixinEntity/pistonDeltas me/earth/phobos/mixin/mixins/MixinEntity/aJ
+FD: me/earth/phobos/mixin/mixins/MixinEntity/pistonDeltasGameTime me/earth/phobos/mixin/mixins/MixinEntity/aK
+FD: me/earth/phobos/mixin/mixins/MixinEntity/fire me/earth/phobos/mixin/mixins/MixinEntity/az
+FD: me/earth/phobos/mixin/mixins/MixinEntity/nextStepDistance me/earth/phobos/mixin/mixins/MixinEntity/ax
+FD: me/earth/phobos/mixin/mixins/MixinEntity/nextFlap me/earth/phobos/mixin/mixins/MixinEntity/ay
+FD: me/earth/phobos/mixin/mixins/MixinEntityRenderer/itemActivationItem me/earth/phobos/mixin/mixins/MixinEntityRenderer/ab
+FD: me/earth/phobos/mixin/mixins/MixinEntityRenderer/mc me/earth/phobos/mixin/mixins/MixinEntityRenderer/h
+FD: me/earth/phobos/mixin/mixins/MixinGuiIngame/persistantChatGUI me/earth/phobos/mixin/mixins/MixinGuiIngame/l
+FD: me/earth/phobos/mixin/mixins/MixinGuiNewChat/drawnChatLines me/earth/phobos/mixin/mixins/MixinGuiNewChat/i
+FD: me/earth/phobos/mixin/mixins/MixinItemStack/itemDamage me/earth/phobos/mixin/mixins/MixinItemStack/h
+FD: me/earth/phobos/mixin/mixins/MixinKeyBinding/pressed me/earth/phobos/mixin/mixins/MixinKeyBinding/i
+FD: me/earth/phobos/mixin/mixins/MixinRenderEnderCrystal/ENDER_CRYSTAL_TEXTURES me/earth/phobos/mixin/mixins/MixinRenderEnderCrystal/a
+FD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/itemRenderer me/earth/phobos/mixin/mixins/MixinRenderEntityItem/a
+FD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/random me/earth/phobos/mixin/mixins/MixinRenderEntityItem/f
+FD: me/earth/phobos/mixin/mixins/MixinRenderer/renderOutlines me/earth/phobos/mixin/mixins/MixinRenderer/e
+FD: me/earth/phobos/mixin/mixins/MixinRenderer/renderManager me/earth/phobos/mixin/mixins/MixinRenderer/b
+MD: me/earth/phobos/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; me/earth/phobos/mixin/mixins/MixinAbstractClientPlayer/b ()Lbsc;
+MD: me/earth/phobos/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/earth/phobos/mixin/mixins/MixinBlock/a (Lawt;Lamu;Let;)F
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isSprinting ()Z me/earth/phobos/mixin/mixins/MixinEntity/aV ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isRiding ()Z me/earth/phobos/mixin/mixins/MixinEntity/aS ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isSneaking ()Z me/earth/phobos/mixin/mixins/MixinEntity/aU ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/earth/phobos/mixin/mixins/MixinEntity/bw ()Lbhb;
+MD: me/earth/phobos/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/earth/phobos/mixin/mixins/MixinEntity/a (Lbhb;)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/resetPositionToBB ()V me/earth/phobos/mixin/mixins/MixinEntity/ad ()V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/updateFallState (DZLnet/minecraft/block/state/IBlockState;Lnet/minecraft/util/math/BlockPos;)V me/earth/phobos/mixin/mixins/MixinEntity/a (DZLawt;Let;)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/canTriggerWalking ()Z me/earth/phobos/mixin/mixins/MixinEntity/ak ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isInWater ()Z me/earth/phobos/mixin/mixins/MixinEntity/ao ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isBeingRidden ()Z me/earth/phobos/mixin/mixins/MixinEntity/aT ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/getControllingPassenger ()Lnet/minecraft/entity/Entity; me/earth/phobos/mixin/mixins/MixinEntity/bE ()Lvg;
+MD: me/earth/phobos/mixin/mixins/MixinEntity/playSound (Lnet/minecraft/util/SoundEvent;FF)V me/earth/phobos/mixin/mixins/MixinEntity/a (Lqe;FF)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/doBlockCollisions ()V me/earth/phobos/mixin/mixins/MixinEntity/ag ()V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isWet ()Z me/earth/phobos/mixin/mixins/MixinEntity/an ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/playStepSound (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/Block;)V me/earth/phobos/mixin/mixins/MixinEntity/a (Let;Laow;)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/getSwimSound ()Lnet/minecraft/util/SoundEvent; me/earth/phobos/mixin/mixins/MixinEntity/ae ()Lqe;
+MD: me/earth/phobos/mixin/mixins/MixinEntity/playFlySound (F)F me/earth/phobos/mixin/mixins/MixinEntity/d (F)F
+MD: me/earth/phobos/mixin/mixins/MixinEntity/makeFlySound ()Z me/earth/phobos/mixin/mixins/MixinEntity/ah ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/addEntityCrashInfo (Lnet/minecraft/crash/CrashReportCategory;)V me/earth/phobos/mixin/mixins/MixinEntity/a (Lc;)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/dealFireDamage (I)V me/earth/phobos/mixin/mixins/MixinEntity/j (I)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/setFire (I)V me/earth/phobos/mixin/mixins/MixinEntity/i (I)V
+MD: me/earth/phobos/mixin/mixins/MixinEntity/getFireImmuneTicks ()I me/earth/phobos/mixin/mixins/MixinEntity/bL ()I
+MD: me/earth/phobos/mixin/mixins/MixinEntity/isBurning ()Z me/earth/phobos/mixin/mixins/MixinEntity/aR ()Z
+MD: me/earth/phobos/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/earth/phobos/mixin/mixins/MixinEntity/Z ()I
+MD: me/earth/phobos/mixin/mixins/MixinEntity/move (Lnet/minecraft/entity/MoverType;DDD)V me/earth/phobos/mixin/mixins/MixinEntity/a (Lvv;DDD)V
+MD: me/earth/phobos/mixin/mixins/MixinEntityBoat/getMountedYOffset ()D me/earth/phobos/mixin/mixins/MixinEntityBoat/aG ()D
+MD: me/earth/phobos/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V me/earth/phobos/mixin/mixins/MixinEntityRenderer/a (F)V
+MD: me/earth/phobos/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/earth/phobos/mixin/mixins/MixinFontRenderer/b (Ljava/lang/String;FFIZ)I
+MD: me/earth/phobos/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/earth/phobos/mixin/mixins/MixinFontRenderer/a (Ljava/lang/String;Z)V
+MD: me/earth/phobos/mixin/mixins/MixinItemRenderer/renderItemInFirstPerson (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;F)V me/earth/phobos/mixin/mixins/MixinItemRenderer/a (Lbua;FFLub;FLaip;F)V
+MD: me/earth/phobos/mixin/mixins/MixinMinecraft/displayGuiScreen (Lnet/minecraft/client/gui/GuiScreen;)V me/earth/phobos/mixin/mixins/MixinMinecraft/a (Lblk;)V
+MD: me/earth/phobos/mixin/mixins/MixinRender/shouldRender (Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ICamera;DDD)Z me/earth/phobos/mixin/mixins/MixinRender/a (Lvg;Lbxy;DDD)Z
+MD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/getModelCount (Lnet/minecraft/item/ItemStack;)I me/earth/phobos/mixin/mixins/MixinRenderEntityItem/a (Laip;)I
+MD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/getEntityTexture (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation; me/earth/phobos/mixin/mixins/MixinRenderEntityItem/a (Lacl;)Lnf;
+MD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/transformModelCount (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I me/earth/phobos/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFLcfy;)I
+MD: me/earth/phobos/mixin/mixins/MixinRenderEntityItem/doRender (Lnet/minecraft/entity/item/EntityItem;DDDFF)V me/earth/phobos/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFF)V
+MD: me/earth/phobos/mixin/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z me/earth/phobos/mixin/mixins/MixinRenderer/d (Lvg;)Z
+MD: me/earth/phobos/mixin/mixins/MixinRenderer/getTeamColor (Lnet/minecraft/entity/Entity;)I me/earth/phobos/mixin/mixins/MixinRenderer/c (Lvg;)I
+MD: me/earth/phobos/mixin/mixins/MixinRenderItem/renderModel (Lnet/minecraft/client/renderer/block/model/IBakedModel;ILnet/minecraft/item/ItemStack;)V me/earth/phobos/mixin/mixins/MixinRenderItem/a (Lcfy;ILaip;)V

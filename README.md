@@ -5,7 +5,7 @@
 [![minecraft](https://img.shields.io/badge/Minecraft-1.12.2-darkgreen.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 [![Discord](https://img.shields.io/discord/840168131652747264?color=darkgreen&label=discord&style=flat-round)](https://discord.gg/Qud3SutpWy)
 ![minecraft](https://img.shields.io/badge/Client--Prefix-.-darkgreen)
-[![Downloads](https://img.shields.io/github/downloads/BerryPGz/PGzClient-v2/total?color=darkgreen)](https://github.com/BerryPGz/PGzClient-v2/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/SaberAspect/ImpHax/total?color=darkgreen)](https://github.com/BerryPGz/PGzClient/releases/latest)
 
 Welcome to PGzClient, is a free EPIC Minecraft 1.12.2 utility mod or just said a hack client that provides an innovative system.
 
@@ -60,7 +60,7 @@ Question my g
 
 Clone the repository to your local machine. Use the link of either your fork or the main repository.
 ```
-git clone https://github.com/BerryPGz/PGzClient-v2
+git clone https://github.com/BerryPGz/PGzClient
 ```
 
 Run `scripts/setupWorkspace.sh` to initialize the environment. 
