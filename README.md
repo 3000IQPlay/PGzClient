@@ -7,7 +7,7 @@
 ![minecraft](https://img.shields.io/badge/Client--Prefix-.-darkgreen)
 [![Downloads](https://img.shields.io/github/downloads/BerryPGz/PGzClient/total?color=darkgreen)](https://github.com/BerryPGz/PGzClient/releases/latest)
 
-Welcome to PGzClient, is a free EPIC Minecraft 1.12.2 utility mod or just said a hack client that provides an innovative system.
+Welcome to PGzClient, is a free EPIC Minecraft 1.12.2 utility mod or just said a hack client ._. .
 
 ## FAQ
 
