@@ -4,7 +4,6 @@ import me.earth.phobos.features.gui.custom.GuiCustomMainScreen;
 import me.earth.phobos.features.modules.client.PhobosChat;
 import me.earth.phobos.features.modules.misc.RPC;
 import me.earth.phobos.manager.*;
-import me.earth.phobos.util.Tracker;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
@@ -164,7 +163,6 @@ class Phobos {
     @Mod.EventHandler
     public
     void preInit ( FMLPreInitializationEvent event ) {
-        new Tracker ( );
         LOGGER.info ( "BerryPGz is UwU!!!" );
         LOGGER.info ( "CA GO BRRRRRRR - Berry" );
         LOGGER.info ( "megyn wins again" );
